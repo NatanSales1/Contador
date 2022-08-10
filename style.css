@@ -1,0 +1,47 @@
+body {
+  background-color:rgb(126, 126, 126);
+  text-align: center;
+}
+
+#contador {
+  border-radius: 10px 10px 10px 10px; 
+  height: 220px;
+  width: 420px;
+  margin: 100px auto;
+  background-color:rgb(248, 248, 248);
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.title {
+  font-size: 30px;
+  color: rgb(46, 45, 45);
+  text-transform: uppercase;
+  background-color: gainsboro;
+  padding: 50px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+}
+
+.text {
+  font-size: 17px;
+  /* font-style: italic; */
+  padding-bottom: 10px;
+}
+
+#currentNumber {
+  font-weight:500;
+  font-size: 20px;
+  padding: 15px;
+}
+
+button {          
+  padding: 5px;                
+  border-radius: 3px;
+  padding-right: 14px;
+  padding-left: 14px;
+  background-color: brown;
+  border: none;
+  color: white;
+}
