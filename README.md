@@ -1,2 +1,2 @@
 # Contador
-Contador de valor baseado em JavaScript
+Contador de valor baseado em JavaScript.
